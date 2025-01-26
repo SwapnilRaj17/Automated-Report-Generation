@@ -64,4 +64,5 @@ This script is ideal for anyone who frequently works with data and needs to gene
 
 ##OUTPUT : 
 
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/b9f12be4-a802-4c29-953b-bcaaa8b825ab" />
 
